@@ -1,0 +1,15 @@
+.flex {
+  display: flex;
+}
+
+.flex-2 {
+  display: grid;
+}
+
+.grid {
+  display: grid;
+}
+
+.grid-2 {
+  display: grid
+}
